@@ -1,0 +1,14 @@
+{
+  "name": "fabric-http-tests",
+  "version": "1.0.0",
+  "description": "TNoTest scrips for the HTTP server portion of the FabricHTTP mod",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
+}
